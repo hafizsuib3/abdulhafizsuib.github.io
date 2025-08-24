@@ -1,19 +1,75 @@
 # Greetings
 
-I’m a quality-driven professional with a strong analytical mindset, transitioning into data-focused roles...
+I’m a Data and AI enthusiast with 5 years of experience across product development, customer experience, business intelligence, and R&D. Skilled in Python, PostgreSQL, MySQL, MongoDB, TensorFlow, and Power BI, I thrive on transforming data into actionable insights. My MSc. in Business Intelligence & Analytics and background in research fuel my curiosity and analytical mindset, allowing me to solve real-world problems creatively. Passionate about data-driven innovation, I’m eager to connect with like-minded professionals and explore opportunities that make a meaningful impact.
 
 ## Lets Connect
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
+[![Static Badge](https://img.shields.io/badge/Threads-black?style=flat-square&logo=Threads&logoColor=white&labelColor=%23000000&color=%23000000)](https://www.threads.net/@nazmirulizzadnassir) &nbsp;
+![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-black?style=flat-square) &nbsp;
+![Static Badge](https://img.shields.io/badge/017%20326%204080-black?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-hafiz-suib/)  
-📧 hafizsuib3@gmail.com  
-📞 018 201 7050
+### View My Full CV
 
-## View My Full CV  
-[Click Here to View CV](https://docs.google.com/document/d/1HTwa0wMLdNzIv6BfTwREYTZiutIpuyJ15mYU9caHNmo/edit?usp=sharing){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/click%20here%20-black?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vSRPJmPcsVqXHeTWjBRjN8zWxbRW9Bdqxc297ZOg8_H62M_Mt7ee29d2XBREPubX7yCGUcR3UIQ3dTz/pub)
+
+
+***
+
 
 ## Real-World Data Projects
 
-### Water Quality Index (WQI) Classification Using ML  
-🗂 [Project Repository](https://github.com/hafizsuib3/wqi-app)
 
-This project uses machine learning to classify Malaysia’s WQI into classes A–E...
+***
+
+
+**[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
+
+![malaysia_sustainable_ota-modified_v2](https://github.com/user-attachments/assets/e5c83fec-b504-4f09-8627-f9fb4c100cab)
+
+- Utilized machine learning (SVM, Decision Tree, Random Forest, KNN, MLP) to classify sustainable accommodations in Malaysia.
+- Scraped, preprocessed, and feature-selected OTA data from 17,866 samples, optimizing model performance.
+- Created an interactive Streamlit app for sustainability predictions, supplemented with Tableau visualizations.
+
+
+**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
+
+  ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
+
+  - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
+  - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
+
+
+***
+
+
+## Deployed Solutions & Applications
+
+
+***
+
+
+**[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
+
+![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
+
+- Utilized logistic regression and deep learning to predict flight prices based on a comprehensive dataset from Kaggle.
+- Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
+- Developed and deployed a seamless flight price prediction application using the Django framework.
+
+
+**[Excel Data Cleaner](https://github.com/izzad2413/excel_dataset_preprocess)**
+
+![Image](https://github.com/user-attachments/assets/c2f9a739-d58c-4460-ac02-7bca74b04d4a)
+
+- Streamlit app to clean and combine multiple Excel files with the same structure, handling duplicates, missing values, and formatting.
+- Supports six fixed features, including numerical and text data, and is designed mainly for demonstration and not production use.
+- Built using Python and Streamlit.
+
+
+**[AI-Powered Invoice Extractor](https://github.com/izzad2413/ai_powered_invoice_extractor)**
+
+![Image](https://github.com/user-attachments/assets/a3a05391-b9b7-4c74-98a2-b767465af608)
+
+- AI-powered app that extracts information from invoice images (JPG, JPEG, PNG) based on user prompts.
+- Built using Python, Streamlit, and VS Code.
+- Future updates will support PDF uploads and multiple file uploads.
