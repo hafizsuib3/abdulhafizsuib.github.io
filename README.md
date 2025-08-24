@@ -21,9 +21,9 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 ***
 
 
-**[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
+**[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/hafizsuib3/water-quality-app)**
 
-![malaysia_sustainable_ota-modified_v2](https://github.com/user-attachments/assets/e5c83fec-b504-4f09-8627-f9fb4c100cab)
+![Water Quality Banner](https://raw.githubusercontent.com/hafizsuib3/water-quality-app/main/Water%20Banner.png)
 
 - Utilized machine learning (SVM, Decision Tree, Random Forest, KNN, MLP) to classify sustainable accommodations in Malaysia.
 - Scraped, preprocessed, and feature-selected OTA data from 17,866 samples, optimizing model performance.
