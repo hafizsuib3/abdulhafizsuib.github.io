@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Abdul Hafiz Suib
-description: Portfolio and Projects
+title: Nazmirul Izzad Nassir       # Title of the site
+logo: assets/profile.png      # Profile photo (placed in an "img" folder)
+show_download: true                # Adds a "Download" button for the repo
+theme: jekyll-theme-minimal        # Theme style
