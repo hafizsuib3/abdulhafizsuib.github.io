@@ -4,9 +4,8 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
 ## Lets Connect
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
-[![Static Badge](https://img.shields.io/badge/Threads-black?style=flat-square&logo=Threads&logoColor=white&labelColor=%23000000&color=%23000000)](https://www.threads.net/@nazmirulizzadnassir) &nbsp;
-![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-black?style=flat-square) &nbsp;
-![Static Badge](https://img.shields.io/badge/017%20326%204080-black?style=flat-square)
+![Static Badge](https://img.shields.io/badge/hafizsuib3%40gmail.com-black?style=flat-square) &nbsp;
+![Static Badge](https://img.shields.io/badge/018%20201%207050-black?style=flat-square)
 
 ### View My Full CV
 
