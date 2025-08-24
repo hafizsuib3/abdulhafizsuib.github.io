@@ -31,45 +31,6 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 - Created an interactive Streamlit app for sustainability predictions, supplemented with Tableau visualizations.
 
 
-**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
-
-  ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
-
-  - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
-  - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
 
 
-***
 
-
-## Deployed Solutions & Applications
-
-
-***
-
-
-**[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
-
-![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
-
-- Utilized logistic regression and deep learning to predict flight prices based on a comprehensive dataset from Kaggle.
-- Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
-- Developed and deployed a seamless flight price prediction application using the Django framework.
-
-
-**[Excel Data Cleaner](https://github.com/izzad2413/excel_dataset_preprocess)**
-
-![Image](https://github.com/user-attachments/assets/c2f9a739-d58c-4460-ac02-7bca74b04d4a)
-
-- Streamlit app to clean and combine multiple Excel files with the same structure, handling duplicates, missing values, and formatting.
-- Supports six fixed features, including numerical and text data, and is designed mainly for demonstration and not production use.
-- Built using Python and Streamlit.
-
-
-**[AI-Powered Invoice Extractor](https://github.com/izzad2413/ai_powered_invoice_extractor)**
-
-![Image](https://github.com/user-attachments/assets/a3a05391-b9b7-4c74-98a2-b767465af608)
-
-- AI-powered app that extracts information from invoice images (JPG, JPEG, PNG) based on user prompts.
-- Built using Python, Streamlit, and VS Code.
-- Future updates will support PDF uploads and multiple file uploads.
