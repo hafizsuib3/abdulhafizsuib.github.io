@@ -1,6 +1,6 @@
 # Greetings
 
-I’m a Data and AI enthusiast with 5 years of experience across product development, customer experience, business intelligence, and R&D. Skilled in Python, PostgreSQL, MySQL, MongoDB, TensorFlow, and Power BI, I thrive on transforming data into actionable insights. My MSc. in Business Intelligence & Analytics and background in research fuel my curiosity and analytical mindset, allowing me to solve real-world problems creatively. Passionate about data-driven innovation, I’m eager to connect with like-minded professionals and explore opportunities that make a meaningful impact.
+Quality background with a data-driven mindset, moving into a data-focused role that delivers actionable insight. Open to hands-on roles across sectors; emphasizes reliable datasets, transparent analysis, and practical outcomes.
 
 ## Lets Connect
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
@@ -21,7 +21,7 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 ***
 
 
-**[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/hafizsuib3/water-quality-app)**
+**[Water Quality Prediction Using Machine Learning](https://github.com/hafizsuib3/water-quality-app)**
 
 ![Water Quality Banner](https://raw.githubusercontent.com/hafizsuib3/water-quality-app/main/Water%20Banner.png)
 
