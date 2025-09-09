@@ -27,7 +27,7 @@ Quality background with a data-driven mindset, moving into a data-focused role t
 
 - Utilized machine learning (SVM, Decision Tree, Random Forest, KNN, MLP) to classify sustainable accommodations in Malaysia.
 - Scraped, preprocessed, and feature-selected OTA data from 17,866 samples, optimizing model performance.
-- Created an interactive Streamlit app for sustainability predictions, supplemented with Tableau visualizations.
+- Created an interactive Streamlit app for sustainability predictions.
 
 
 
