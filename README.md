@@ -3,13 +3,13 @@
 Quality background with a data-driven mindset, moving into a data-focused role that delivers actionable insight. Open to hands-on roles across sectors; emphasizes reliable datasets, transparent analysis, and practical outcomes.
 
 ## Lets Connect
-[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/abdul-hafiz-suib)
 ![Static Badge](https://img.shields.io/badge/hafizsuib3%40gmail.com-black?style=flat-square) &nbsp;
 ![Static Badge](https://img.shields.io/badge/018%20201%207050-black?style=flat-square)
 
 ### View My Full CV
 
-[![Static Badge](https://img.shields.io/badge/click%20here%20-black?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vSRPJmPcsVqXHeTWjBRjN8zWxbRW9Bdqxc297ZOg8_H62M_Mt7ee29d2XBREPubX7yCGUcR3UIQ3dTz/pub)
+[![Static Badge](https://img.shields.io/badge/click%20here%20-black?style=for-the-badge)](https://docs.google.com/document/d/1_hx2AB6zS7JEJEip9F8XHwo_eTsGqBiFc8lJIqAeELU/edit?usp=sharing)
 
 
 ***
@@ -30,9 +30,12 @@ Quality background with a data-driven mindset, moving into a data-focused role t
 - Created an interactive Streamlit app for sustainability predictions.
 
 
+***
+
+
 **[Twitter Sentiment Analysis Using Machine Learning](https://github.com/yourusername/twitter-sentiment-app)**  
 
-![Twitter Sentiment Banner](https://raw.githubusercontent.com/yourusername/twitter-sentiment-app/main/Twitter%20Banner.png)
+![Twitter Sentiment Banner](https://raw.githubusercontent.com/hafizsuib3/twitter-sentiment-analysis/main/Sentiment.png)
 
 - Developed a sentiment classification pipeline using the **Sentiment140 dataset** (1.6M tweets, sampled 200k).  
 - Preprocessed tweets (cleaning, tokenization, stopword removal) and extracted features with **TF-IDF**.  
