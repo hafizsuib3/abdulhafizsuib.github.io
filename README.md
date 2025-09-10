@@ -30,6 +30,14 @@ Quality background with a data-driven mindset, moving into a data-focused role t
 - Created an interactive Streamlit app for sustainability predictions.
 
 
+**[Twitter Sentiment Analysis Using Machine Learning](https://github.com/yourusername/twitter-sentiment-app)**  
 
+![Twitter Sentiment Banner](https://raw.githubusercontent.com/yourusername/twitter-sentiment-app/main/Twitter%20Banner.png)
+
+- Developed a sentiment classification pipeline using the **Sentiment140 dataset** (1.6M tweets, sampled 200k).  
+- Preprocessed tweets (cleaning, tokenization, stopword removal) and extracted features with **TF-IDF**.  
+- Benchmarked multiple models (**Logistic Regression, Decision Tree, Random Forest**) and selected the best with **weighted F1-score**.  
+- Saved trained artifacts (`sentiment_model.pkl`, `tfidf.pkl`) for deployment.  
+- Prepared framework for a future **Streamlit app** enabling real-time tweet sentiment predictions.  
 
 
