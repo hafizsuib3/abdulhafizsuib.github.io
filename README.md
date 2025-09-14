@@ -44,5 +44,29 @@ Quality background with a data-driven mindset, moving into a data-focused role t
 - Saved trained artifacts (`sentiment_model.pkl`, `tfidf.pkl`) for deployment.  
 
 
+***
+
+
+**[Garbage Classifier Using Deep Learning](https://github.com/hafizsuib3/garbage-classifier)**  
+
+![Garbage Classifier Banner](https://raw.githubusercontent.com/hafizsuib3/garbage-classifier/main/Garbage%20Classifier%20Banner.png)
+
+- Built a **deep learning model** with **TensorFlow / Keras** using **MobileNetV2 transfer learning** to classify garbage images into 6 categories:  
+  **Trash, Plastic, Paper, Metal, Glass, Cardboard**.  
+- Used a **custom Kaggle dataset**, capped at 300 samples per class, with **80/20 train-validation split** and heavy data augmentation (rotation, zoom, shift, shear, flip).  
+- Fine-tuned **top 50 layers of MobileNetV2**, adding a custom classifier head:  
+  - Global Average Pooling → Dense(256, ReLU) → Dropout(0.4) → Dense(6, Softmax).  
+- Achieved **73.89% validation accuracy**, but macro **F1-score = 0.15** indicates imbalance across classes.  
+- Implemented **Dropout + Early Stopping** to mitigate overfitting after ~5 epochs.  
+
+
+
+🔧 **Future Improvements**  
+- Increase dataset size with real-world garbage samples.  
+- Experiment with architectures (**EfficientNet, ResNet, DenseNet**).  
+- Apply hyperparameter tuning (learning rate schedulers, AdamW).  
+- Address class imbalance (oversampling, synthetic data, GANs).  
+- Explore **cross-validation** for more reliable results.  
+- Deploy model via **Streamlit app** or convert to **TensorFlow Lite** for edge devices.  
 
 
