@@ -20,3 +20,8 @@ This version includes:
 - LinkedIn: https://www.linkedin.com/in/abdul-hafiz-suib
 - GitHub: https://github.com/hafizsuib3
 - Email: hafizsuib3@gmail.com
+
+
+## CV
+
+[View CV](https://docs.google.com/document/d/1mv7c27-YiAMh4a4qv1ED-qo17jTcABgytyPUkfiPOGk/edit?usp=sharing)

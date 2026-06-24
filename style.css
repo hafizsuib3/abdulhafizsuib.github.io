@@ -181,10 +181,9 @@ a { color: inherit; text-decoration: none; }
 .hero-image-panel {
   position: relative;
   min-height: 380px;
-  background-image: url("header-images.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background:
+    linear-gradient(120deg, rgba(0,0,0,.18), rgba(0,0,0,.12)),
+    linear-gradient(135deg, #09111e 0%, #0f2948 40%, #10213a 100%);
   overflow: hidden;
 }
 
@@ -192,15 +191,32 @@ a { color: inherit; text-decoration: none; }
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.10);
+  background:
+    radial-gradient(circle at 22% 28%, rgba(22, 119, 255, 0.20), transparent 18%),
+    radial-gradient(circle at 70% 32%, rgba(0, 179, 255, 0.14), transparent 22%),
+    radial-gradient(circle at 55% 75%, rgba(59, 130, 246, 0.14), transparent 18%);
 }
 
 .hero-image-panel::after {
-  display: none;
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 72px 72px;
+  opacity: .22;
 }
 
 .hero-image-overlay {
-  display: none;
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  padding: 22px;
 }
 
 .image-note {
@@ -559,4 +575,11 @@ footer {
   .pipeline-row {
     grid-template-columns: 280px repeat(6, 1fr);
   }
+}
+
+
+.cv-btn {
+  border-color: rgba(11, 118, 240, .22);
+  color: var(--blue);
+  background: #ffffff;
 }
