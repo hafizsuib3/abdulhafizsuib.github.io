@@ -25,3 +25,10 @@ This version includes:
 ## CV
 
 [View CV](https://docs.google.com/document/d/1mv7c27-YiAMh4a4qv1ED-qo17jTcABgytyPUkfiPOGk/edit?usp=sharing)
+
+
+## Latest Update
+
+- Removed Email Me button
+- Removed Industrial Quality Analytics concept section
+- Hero banner uses `header-images.png`
