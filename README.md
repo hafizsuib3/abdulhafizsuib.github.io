@@ -6,12 +6,14 @@ Welcome to my portfolio repository.
 
 [![View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0B76F0?style=for-the-badge&logo=githubpages&logoColor=white)](https://hafizsuib3.github.io/abdulhafizsuib.github.io/)
 
-## About
+## Updated Design Notes
 
-I am a Quality Management professional transitioning into Data Analytics, Machine Learning, and Artificial Intelligence.
-
-This version uses a clean split-hero layout inspired by your latest design reference.
-The right-side hero panel is a banner image placeholder that you can replace later.
+This version includes:
+- equal-width split hero layout
+- button-style navigation
+- added Deployment skill card
+- more clickable-looking project titles in the pipeline matrix
+- icons/emoji in project detail headers
 
 ## Connect
 
